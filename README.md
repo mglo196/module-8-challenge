@@ -1,14 +1,17 @@
 # module-8-challenge
 # 08 Typescript Challenge: Vehicle Builder
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Table of Contents
 
-    Description
-    Installation
-    Usage
-    User Story
-    Acceptance Criteria
-    The Deployment
-    Contributions
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [User Story](#userstory)
+- [Acceptance Criteria](#acceptancecriteria)
+- [The Deployment](#thedeployment)
+- [Contributions](#contributions)
 
 ## Description
 
