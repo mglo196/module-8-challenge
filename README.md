@@ -79,7 +79,7 @@ THEN I can perform additional actions until I choose to exit
 
 [The Repo](https://github.com/mglo196/module-8-challenge)
 
-[The Walkthrough Video](https://drive.google.com/file/d/1UG3DkDOdvwV44okg0Su6nOu91lcKzJ6z/view?usp=sharing)
+[The Walkthrough Video](https://drive.google.com/file/d/1pnlYuCdxJoeBgpcRL02vIUTruO-LLBlk/view)
 
 ## Contributions
 
